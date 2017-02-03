@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: Build Fat Jar
+Implementation-Version: 1.0-SNAPSHOT
+Main-Class: com.viperpvp.core.Core
+
